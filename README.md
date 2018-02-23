@@ -6,7 +6,8 @@ I was challenged to print daily account balances based on the transaction histor
 2. Transaction History (Array of Objects
 
 ### Output
-1. Print out end-of-day account balance for every previous day. Each console.log must have: (1) Date (2) Account Balance.
+1. Print out end-of-day account balance for every previous day. 
+.  - Each console.log must have: (1) Date (2) Account Balance.
 
 ## Live Demo of Solution
 <img src="https://github.com/ykeanu/node-challenge/blob/master/assets/live-demo.gif?raw=true" width="70%" height="70%">
