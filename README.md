@@ -1,5 +1,5 @@
 # Node Challenge
-- Prints the end-of-day account balance per day based on transaction history of a user. In this case, I was provided with a transaction history between the date range of "2018-02-02" and "2017-11-09", which totaled 85 days (not including start day).
+I was chalelnged to print the end-of-day account balance per day based on transaction history of a user. In this case, I was provided with a transaction history between the date range of "2018-02-02" and "2017-11-09", which totaled 85 days (not including start day).
 
 ### Input
 1. Current Balance (Integer)
@@ -12,6 +12,3 @@
 
 ## Live Demo of Solution
 <img src="https://github.com/ykeanu/node-challenge/blob/master/assets/live-demo.gif?raw=true" width="70%" height="70%">
-
-## Explanation
-- 
