@@ -1,5 +1,5 @@
 # Node Challenge
-The challenge was to print daily account balances based on the transaction history of a user. In this case, I was provided with a transaction history between the date range of "2018-02-02" and "2017-11-09", which totaled 85 days (not including start day). The number of transactions could range from zero to multiple occuring on a single day.
+The challenge was to print daily account balances based on the transaction history of a user. In this case, I was provided with a transaction history between the date range of "2018-02-02" and "2017-11-09", which totaled 85 days (not including start day). The number of transactions could range from zero to multiple occuring in a single day.
 
 ### Input
 - Current Balance (Integer)
